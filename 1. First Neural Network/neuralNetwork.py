@@ -22,6 +22,9 @@ np.random.seed(1)
 
 weights = 2 * np.random.random((3,1)) - 1
 
+print("\nWeights before training")
+print(weights)
+
 for i in range(20000):
     #Forward propagation
     input_layer = training_input
