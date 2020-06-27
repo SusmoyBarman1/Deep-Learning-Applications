@@ -1,1 +1,0 @@
-download yolov3.weights from internet/drive
